@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController collectionView:numberOfItemsInSection:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController updateLyrics]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[LrcParser mergeLrcListIsNecessary]:LrcParser.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.startTimeArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController initPlayer]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController collectionView:layout:sizeForItemAtIndexPath:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController playAtLine:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_player.currentTime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

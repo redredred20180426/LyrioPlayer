@@ -1,0 +1,571 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0DEDCEF5217B2D9A0039A0BC /* S0504.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEC5217B2D830039A0BC /* S0504.mp3 */; };
+		0DEDCEF6217B2D9A0039A0BC /* S0509.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEC6217B2D830039A0BC /* S0509.lrc */; };
+		0DEDCEF7217B2D9A0039A0BC /* S0503.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEC7217B2D830039A0BC /* S0503.lrc */; };
+		0DEDCEF8217B2D9A0039A0BC /* S0506.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEC8217B2D830039A0BC /* S0506.lrc */; };
+		0DEDCEF9217B2D9A0039A0BC /* S0508.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEC9217B2D830039A0BC /* S0508.mp3 */; };
+		0DEDCEFA217B2D9A0039A0BC /* S0519.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCECA217B2D830039A0BC /* S0519.mp3 */; };
+		0DEDCEFB217B2D9A0039A0BC /* S0514.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCECB217B2D830039A0BC /* S0514.mp3 */; };
+		0DEDCEFC217B2D9A0039A0BC /* S0517.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCECC217B2D830039A0BC /* S0517.mp3 */; };
+		0DEDCEFD217B2D9A0039A0BC /* S0510.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCECD217B2D830039A0BC /* S0510.mp3 */; };
+		0DEDCEFE217B2D9A0039A0BC /* S0502.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCECE217B2D830039A0BC /* S0502.mp3 */; };
+		0DEDCEFF217B2D9A0039A0BC /* S0511.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCECF217B2D830039A0BC /* S0511.mp3 */; };
+		0DEDCF00217B2D9A0039A0BC /* S0502.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCED0217B2D830039A0BC /* S0502.lrc */; };
+		0DEDCF01217B2D9A0039A0BC /* S0501.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCED1217B2D830039A0BC /* S0501.lrc */; };
+		0DEDCF02217B2D9A0039A0BC /* S0512.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCED2217B2D850039A0BC /* S0512.mp3 */; };
+		0DEDCF03217B2D9A0039A0BC /* S0510.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCED3217B2D850039A0BC /* S0510.lrc */; };
+		0DEDCF04217B2D9A0039A0BC /* S0513.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCED4217B2D860039A0BC /* S0513.mp3 */; };
+		0DEDCF05217B2D9A0039A0BC /* S0515.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCED5217B2D880039A0BC /* S0515.mp3 */; };
+		0DEDCF06217B2D9A0039A0BC /* S0521.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCED6217B2D8A0039A0BC /* S0521.mp3 */; };
+		0DEDCF07217B2D9A0039A0BC /* S0506.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCED7217B2D8B0039A0BC /* S0506.mp3 */; };
+		0DEDCF08217B2D9A0039A0BC /* S0521.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCED8217B2D8B0039A0BC /* S0521.lrc */; };
+		0DEDCF09217B2D9A0039A0BC /* S0519.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCED9217B2D8B0039A0BC /* S0519.lrc */; };
+		0DEDCF0A217B2D9A0039A0BC /* S0523.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEDA217B2D8B0039A0BC /* S0523.lrc */; };
+		0DEDCF0B217B2D9A0039A0BC /* S0513.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEDB217B2D8C0039A0BC /* S0513.lrc */; };
+		0DEDCF0C217B2D9A0039A0BC /* S0520.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEDC217B2D8D0039A0BC /* S0520.mp3 */; };
+		0DEDCF0D217B2D9A0039A0BC /* S0524.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEDD217B2D8E0039A0BC /* S0524.mp3 */; };
+		0DEDCF0E217B2D9A0039A0BC /* S0508.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEDE217B2D8E0039A0BC /* S0508.lrc */; };
+		0DEDCF0F217B2D9A0039A0BC /* S0523.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEDF217B2D8F0039A0BC /* S0523.mp3 */; };
+		0DEDCF10217B2D9A0039A0BC /* S0515.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEE0217B2D8F0039A0BC /* S0515.lrc */; };
+		0DEDCF11217B2D9A0039A0BC /* S0503.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEE1217B2D900039A0BC /* S0503.mp3 */; };
+		0DEDCF12217B2D9A0039A0BC /* S0514.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEE2217B2D900039A0BC /* S0514.lrc */; };
+		0DEDCF13217B2D9A0039A0BC /* S0522.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEE3217B2D900039A0BC /* S0522.lrc */; };
+		0DEDCF14217B2D9A0039A0BC /* S0505.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEE4217B2D900039A0BC /* S0505.lrc */; };
+		0DEDCF15217B2D9A0039A0BC /* S0505.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEE5217B2D910039A0BC /* S0505.mp3 */; };
+		0DEDCF16217B2D9A0039A0BC /* S0509.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEE6217B2D920039A0BC /* S0509.mp3 */; };
+		0DEDCF17217B2D9A0039A0BC /* S0511.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEE7217B2D930039A0BC /* S0511.lrc */; };
+		0DEDCF18217B2D9A0039A0BC /* S0520.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEE8217B2D930039A0BC /* S0520.lrc */; };
+		0DEDCF19217B2D9A0039A0BC /* S0507.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEE9217B2D940039A0BC /* S0507.mp3 */; };
+		0DEDCF1A217B2D9A0039A0BC /* S0507.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEEA217B2D940039A0BC /* S0507.lrc */; };
+		0DEDCF1B217B2D9A0039A0BC /* S0516.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEEB217B2D940039A0BC /* S0516.lrc */; };
+		0DEDCF1C217B2D9A0039A0BC /* S0501.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEEC217B2D950039A0BC /* S0501.mp3 */; };
+		0DEDCF1D217B2D9A0039A0BC /* S0504.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEED217B2D950039A0BC /* S0504.lrc */; };
+		0DEDCF1E217B2D9A0039A0BC /* S0517.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEEE217B2D960039A0BC /* S0517.lrc */; };
+		0DEDCF1F217B2D9A0039A0BC /* S0518.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEEF217B2D960039A0BC /* S0518.lrc */; };
+		0DEDCF20217B2D9A0039A0BC /* S0524.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEF0217B2D960039A0BC /* S0524.lrc */; };
+		0DEDCF21217B2D9A0039A0BC /* S0512.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEF1217B2D960039A0BC /* S0512.lrc */; };
+		0DEDCF22217B2D9A0039A0BC /* S0518.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEF2217B2D970039A0BC /* S0518.mp3 */; };
+		0DEDCF23217B2D9A0039A0BC /* S0522.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEF3217B2D980039A0BC /* S0522.mp3 */; };
+		0DEDCF24217B2D9A0039A0BC /* S0516.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCEF4217B2D9A0039A0BC /* S0516.mp3 */; };
+		0DFC8D9620CBF1020004538A /* LrcParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DFC8D9520CBF1020004538A /* LrcParser.m */; };
+		0DFC8D9920CBF1370004538A /* LyricsCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DFC8D9820CBF1370004538A /* LyricsCollectionViewCell.m */; };
+		1BCA76F820E84DD500709CC9 /* SongsCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BCA76F720E84DD500709CC9 /* SongsCollectionViewController.m */; };
+		1BCA76FB20E84FC700709CC9 /* SongCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BCA76FA20E84FC700709CC9 /* SongCollectionViewCell.m */; };
+		C0E16CFB1E91164100E205F9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C0E16CFA1E91164100E205F9 /* main.m */; };
+		C0E16CFE1E91164100E205F9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C0E16CFD1E91164100E205F9 /* AppDelegate.m */; };
+		C0E16D011E91164200E205F9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0E16D001E91164200E205F9 /* ViewController.m */; };
+		C0E16D041E91164200E205F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0E16D021E91164200E205F9 /* Main.storyboard */; };
+		C0E16D061E91164200E205F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0E16D051E91164200E205F9 /* Assets.xcassets */; };
+		C0E16D091E91164200E205F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0E16D071E91164200E205F9 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		0DFC8DA420CBF7800004538A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 8;
+			dstPath = "";
+			dstSubfolderSpec = 7;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		0DEDCEC5217B2D830039A0BC /* S0504.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0504.mp3; sourceTree = "<group>"; };
+		0DEDCEC6217B2D830039A0BC /* S0509.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0509.lrc; sourceTree = "<group>"; };
+		0DEDCEC7217B2D830039A0BC /* S0503.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0503.lrc; sourceTree = "<group>"; };
+		0DEDCEC8217B2D830039A0BC /* S0506.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0506.lrc; sourceTree = "<group>"; };
+		0DEDCEC9217B2D830039A0BC /* S0508.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0508.mp3; sourceTree = "<group>"; };
+		0DEDCECA217B2D830039A0BC /* S0519.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0519.mp3; sourceTree = "<group>"; };
+		0DEDCECB217B2D830039A0BC /* S0514.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0514.mp3; sourceTree = "<group>"; };
+		0DEDCECC217B2D830039A0BC /* S0517.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0517.mp3; sourceTree = "<group>"; };
+		0DEDCECD217B2D830039A0BC /* S0510.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0510.mp3; sourceTree = "<group>"; };
+		0DEDCECE217B2D830039A0BC /* S0502.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0502.mp3; sourceTree = "<group>"; };
+		0DEDCECF217B2D830039A0BC /* S0511.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0511.mp3; sourceTree = "<group>"; };
+		0DEDCED0217B2D830039A0BC /* S0502.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0502.lrc; sourceTree = "<group>"; };
+		0DEDCED1217B2D830039A0BC /* S0501.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0501.lrc; sourceTree = "<group>"; };
+		0DEDCED2217B2D850039A0BC /* S0512.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0512.mp3; sourceTree = "<group>"; };
+		0DEDCED3217B2D850039A0BC /* S0510.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0510.lrc; sourceTree = "<group>"; };
+		0DEDCED4217B2D860039A0BC /* S0513.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0513.mp3; sourceTree = "<group>"; };
+		0DEDCED5217B2D880039A0BC /* S0515.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0515.mp3; sourceTree = "<group>"; };
+		0DEDCED6217B2D8A0039A0BC /* S0521.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0521.mp3; sourceTree = "<group>"; };
+		0DEDCED7217B2D8B0039A0BC /* S0506.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0506.mp3; sourceTree = "<group>"; };
+		0DEDCED8217B2D8B0039A0BC /* S0521.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0521.lrc; sourceTree = "<group>"; };
+		0DEDCED9217B2D8B0039A0BC /* S0519.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0519.lrc; sourceTree = "<group>"; };
+		0DEDCEDA217B2D8B0039A0BC /* S0523.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0523.lrc; sourceTree = "<group>"; };
+		0DEDCEDB217B2D8C0039A0BC /* S0513.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0513.lrc; sourceTree = "<group>"; };
+		0DEDCEDC217B2D8D0039A0BC /* S0520.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0520.mp3; sourceTree = "<group>"; };
+		0DEDCEDD217B2D8E0039A0BC /* S0524.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0524.mp3; sourceTree = "<group>"; };
+		0DEDCEDE217B2D8E0039A0BC /* S0508.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0508.lrc; sourceTree = "<group>"; };
+		0DEDCEDF217B2D8F0039A0BC /* S0523.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0523.mp3; sourceTree = "<group>"; };
+		0DEDCEE0217B2D8F0039A0BC /* S0515.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0515.lrc; sourceTree = "<group>"; };
+		0DEDCEE1217B2D900039A0BC /* S0503.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0503.mp3; sourceTree = "<group>"; };
+		0DEDCEE2217B2D900039A0BC /* S0514.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0514.lrc; sourceTree = "<group>"; };
+		0DEDCEE3217B2D900039A0BC /* S0522.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0522.lrc; sourceTree = "<group>"; };
+		0DEDCEE4217B2D900039A0BC /* S0505.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0505.lrc; sourceTree = "<group>"; };
+		0DEDCEE5217B2D910039A0BC /* S0505.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0505.mp3; sourceTree = "<group>"; };
+		0DEDCEE6217B2D920039A0BC /* S0509.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0509.mp3; sourceTree = "<group>"; };
+		0DEDCEE7217B2D930039A0BC /* S0511.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0511.lrc; sourceTree = "<group>"; };
+		0DEDCEE8217B2D930039A0BC /* S0520.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0520.lrc; sourceTree = "<group>"; };
+		0DEDCEE9217B2D940039A0BC /* S0507.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0507.mp3; sourceTree = "<group>"; };
+		0DEDCEEA217B2D940039A0BC /* S0507.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0507.lrc; sourceTree = "<group>"; };
+		0DEDCEEB217B2D940039A0BC /* S0516.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0516.lrc; sourceTree = "<group>"; };
+		0DEDCEEC217B2D950039A0BC /* S0501.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0501.mp3; sourceTree = "<group>"; };
+		0DEDCEED217B2D950039A0BC /* S0504.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0504.lrc; sourceTree = "<group>"; };
+		0DEDCEEE217B2D960039A0BC /* S0517.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0517.lrc; sourceTree = "<group>"; };
+		0DEDCEEF217B2D960039A0BC /* S0518.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0518.lrc; sourceTree = "<group>"; };
+		0DEDCEF0217B2D960039A0BC /* S0524.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0524.lrc; sourceTree = "<group>"; };
+		0DEDCEF1217B2D960039A0BC /* S0512.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S0512.lrc; sourceTree = "<group>"; };
+		0DEDCEF2217B2D970039A0BC /* S0518.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0518.mp3; sourceTree = "<group>"; };
+		0DEDCEF3217B2D980039A0BC /* S0522.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0522.mp3; sourceTree = "<group>"; };
+		0DEDCEF4217B2D9A0039A0BC /* S0516.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = S0516.mp3; sourceTree = "<group>"; };
+		0DFC8D9420CBF1020004538A /* LrcParser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LrcParser.h; sourceTree = "<group>"; };
+		0DFC8D9520CBF1020004538A /* LrcParser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LrcParser.m; sourceTree = "<group>"; };
+		0DFC8D9720CBF1370004538A /* LyricsCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LyricsCollectionViewCell.h; sourceTree = "<group>"; };
+		0DFC8D9820CBF1370004538A /* LyricsCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LyricsCollectionViewCell.m; sourceTree = "<group>"; };
+		1BCA76F620E84DD500709CC9 /* SongsCollectionViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SongsCollectionViewController.h; sourceTree = "<group>"; };
+		1BCA76F720E84DD500709CC9 /* SongsCollectionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SongsCollectionViewController.m; sourceTree = "<group>"; };
+		1BCA76F920E84FC700709CC9 /* SongCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SongCollectionViewCell.h; sourceTree = "<group>"; };
+		1BCA76FA20E84FC700709CC9 /* SongCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SongCollectionViewCell.m; sourceTree = "<group>"; };
+		C0E16CF61E91164100E205F9 /* LyrioPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LyrioPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C0E16CFA1E91164100E205F9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C0E16CFC1E91164100E205F9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		C0E16CFD1E91164100E205F9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		C0E16CFF1E91164100E205F9 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		C0E16D001E91164200E205F9 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		C0E16D031E91164200E205F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C0E16D051E91164200E205F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C0E16D081E91164200E205F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C0E16D0A1E91164200E205F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C0E16CF31E91164100E205F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0DFC8DCD20CBFB2B0004538A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0DEDCED1217B2D830039A0BC /* S0501.lrc */,
+				0DEDCEEC217B2D950039A0BC /* S0501.mp3 */,
+				0DEDCED0217B2D830039A0BC /* S0502.lrc */,
+				0DEDCECE217B2D830039A0BC /* S0502.mp3 */,
+				0DEDCEC7217B2D830039A0BC /* S0503.lrc */,
+				0DEDCEE1217B2D900039A0BC /* S0503.mp3 */,
+				0DEDCEED217B2D950039A0BC /* S0504.lrc */,
+				0DEDCEC5217B2D830039A0BC /* S0504.mp3 */,
+				0DEDCEE4217B2D900039A0BC /* S0505.lrc */,
+				0DEDCEE5217B2D910039A0BC /* S0505.mp3 */,
+				0DEDCEC8217B2D830039A0BC /* S0506.lrc */,
+				0DEDCED7217B2D8B0039A0BC /* S0506.mp3 */,
+				0DEDCEEA217B2D940039A0BC /* S0507.lrc */,
+				0DEDCEE9217B2D940039A0BC /* S0507.mp3 */,
+				0DEDCEDE217B2D8E0039A0BC /* S0508.lrc */,
+				0DEDCEC9217B2D830039A0BC /* S0508.mp3 */,
+				0DEDCEC6217B2D830039A0BC /* S0509.lrc */,
+				0DEDCEE6217B2D920039A0BC /* S0509.mp3 */,
+				0DEDCED3217B2D850039A0BC /* S0510.lrc */,
+				0DEDCECD217B2D830039A0BC /* S0510.mp3 */,
+				0DEDCEE7217B2D930039A0BC /* S0511.lrc */,
+				0DEDCECF217B2D830039A0BC /* S0511.mp3 */,
+				0DEDCEF1217B2D960039A0BC /* S0512.lrc */,
+				0DEDCED2217B2D850039A0BC /* S0512.mp3 */,
+				0DEDCEDB217B2D8C0039A0BC /* S0513.lrc */,
+				0DEDCED4217B2D860039A0BC /* S0513.mp3 */,
+				0DEDCEE2217B2D900039A0BC /* S0514.lrc */,
+				0DEDCECB217B2D830039A0BC /* S0514.mp3 */,
+				0DEDCEE0217B2D8F0039A0BC /* S0515.lrc */,
+				0DEDCED5217B2D880039A0BC /* S0515.mp3 */,
+				0DEDCEEB217B2D940039A0BC /* S0516.lrc */,
+				0DEDCEF4217B2D9A0039A0BC /* S0516.mp3 */,
+				0DEDCEEE217B2D960039A0BC /* S0517.lrc */,
+				0DEDCECC217B2D830039A0BC /* S0517.mp3 */,
+				0DEDCEEF217B2D960039A0BC /* S0518.lrc */,
+				0DEDCEF2217B2D970039A0BC /* S0518.mp3 */,
+				0DEDCED9217B2D8B0039A0BC /* S0519.lrc */,
+				0DEDCECA217B2D830039A0BC /* S0519.mp3 */,
+				0DEDCEE8217B2D930039A0BC /* S0520.lrc */,
+				0DEDCEDC217B2D8D0039A0BC /* S0520.mp3 */,
+				0DEDCED8217B2D8B0039A0BC /* S0521.lrc */,
+				0DEDCED6217B2D8A0039A0BC /* S0521.mp3 */,
+				0DEDCEE3217B2D900039A0BC /* S0522.lrc */,
+				0DEDCEF3217B2D980039A0BC /* S0522.mp3 */,
+				0DEDCEDA217B2D8B0039A0BC /* S0523.lrc */,
+				0DEDCEDF217B2D8F0039A0BC /* S0523.mp3 */,
+				0DEDCEF0217B2D960039A0BC /* S0524.lrc */,
+				0DEDCEDD217B2D8E0039A0BC /* S0524.mp3 */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		C0E16CED1E91164100E205F9 = {
+			isa = PBXGroup;
+			children = (
+				1BCA76F620E84DD500709CC9 /* SongsCollectionViewController.h */,
+				1BCA76F720E84DD500709CC9 /* SongsCollectionViewController.m */,
+				1BCA76F920E84FC700709CC9 /* SongCollectionViewCell.h */,
+				1BCA76FA20E84FC700709CC9 /* SongCollectionViewCell.m */,
+				C0E16CF81E91164100E205F9 /* 8.3.8 */,
+				C0E16CF71E91164100E205F9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C0E16CF71E91164100E205F9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E16CF61E91164100E205F9 /* LyrioPlayer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C0E16CF81E91164100E205F9 /* 8.3.8 */ = {
+			isa = PBXGroup;
+			children = (
+				0DFC8DCD20CBFB2B0004538A /* Resources */,
+				C0E16CFC1E91164100E205F9 /* AppDelegate.h */,
+				C0E16CFD1E91164100E205F9 /* AppDelegate.m */,
+				C0E16CFF1E91164100E205F9 /* ViewController.h */,
+				C0E16D001E91164200E205F9 /* ViewController.m */,
+				C0E16D021E91164200E205F9 /* Main.storyboard */,
+				C0E16D051E91164200E205F9 /* Assets.xcassets */,
+				C0E16D071E91164200E205F9 /* LaunchScreen.storyboard */,
+				C0E16D0A1E91164200E205F9 /* Info.plist */,
+				C0E16CF91E91164100E205F9 /* Supporting Files */,
+				0DFC8D9420CBF1020004538A /* LrcParser.h */,
+				0DFC8D9520CBF1020004538A /* LrcParser.m */,
+				0DFC8D9720CBF1370004538A /* LyricsCollectionViewCell.h */,
+				0DFC8D9820CBF1370004538A /* LyricsCollectionViewCell.m */,
+			);
+			path = 8.3.8;
+			sourceTree = "<group>";
+		};
+		C0E16CF91E91164100E205F9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C0E16CFA1E91164100E205F9 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C0E16CF51E91164100E205F9 /* LyrioPlayer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C0E16D0D1E91164200E205F9 /* Build configuration list for PBXNativeTarget "LyrioPlayer" */;
+			buildPhases = (
+				C0E16CF21E91164100E205F9 /* Sources */,
+				C0E16CF31E91164100E205F9 /* Frameworks */,
+				C0E16CF41E91164100E205F9 /* Resources */,
+				0DFC8DA420CBF7800004538A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LyrioPlayer;
+			productName = 8.3.8;
+			productReference = C0E16CF61E91164100E205F9 /* LyrioPlayer.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C0E16CEE1E91164100E205F9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0940;
+				ORGANIZATIONNAME = Liz;
+				TargetAttributes = {
+					C0E16CF51E91164100E205F9 = {
+						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = WRXQWFRRMG;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C0E16CF11E91164100E205F9 /* Build configuration list for PBXProject "LyrioPlayer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C0E16CED1E91164100E205F9;
+			productRefGroup = C0E16CF71E91164100E205F9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C0E16CF51E91164100E205F9 /* LyrioPlayer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C0E16CF41E91164100E205F9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0DEDCF0B217B2D9A0039A0BC /* S0513.lrc in Resources */,
+				0DEDCF1F217B2D9A0039A0BC /* S0518.lrc in Resources */,
+				0DEDCF14217B2D9A0039A0BC /* S0505.lrc in Resources */,
+				0DEDCF23217B2D9A0039A0BC /* S0522.mp3 in Resources */,
+				C0E16D091E91164200E205F9 /* LaunchScreen.storyboard in Resources */,
+				0DEDCF13217B2D9A0039A0BC /* S0522.lrc in Resources */,
+				0DEDCF15217B2D9A0039A0BC /* S0505.mp3 in Resources */,
+				0DEDCF11217B2D9A0039A0BC /* S0503.mp3 in Resources */,
+				0DEDCF01217B2D9A0039A0BC /* S0501.lrc in Resources */,
+				0DEDCEFE217B2D9A0039A0BC /* S0502.mp3 in Resources */,
+				0DEDCF0C217B2D9A0039A0BC /* S0520.mp3 in Resources */,
+				0DEDCEF7217B2D9A0039A0BC /* S0503.lrc in Resources */,
+				0DEDCF17217B2D9A0039A0BC /* S0511.lrc in Resources */,
+				C0E16D061E91164200E205F9 /* Assets.xcassets in Resources */,
+				0DEDCEFC217B2D9A0039A0BC /* S0517.mp3 in Resources */,
+				0DEDCF1B217B2D9A0039A0BC /* S0516.lrc in Resources */,
+				0DEDCF02217B2D9A0039A0BC /* S0512.mp3 in Resources */,
+				0DEDCEFD217B2D9A0039A0BC /* S0510.mp3 in Resources */,
+				C0E16D041E91164200E205F9 /* Main.storyboard in Resources */,
+				0DEDCF22217B2D9A0039A0BC /* S0518.mp3 in Resources */,
+				0DEDCF00217B2D9A0039A0BC /* S0502.lrc in Resources */,
+				0DEDCF21217B2D9A0039A0BC /* S0512.lrc in Resources */,
+				0DEDCF1A217B2D9A0039A0BC /* S0507.lrc in Resources */,
+				0DEDCF0A217B2D9A0039A0BC /* S0523.lrc in Resources */,
+				0DEDCF09217B2D9A0039A0BC /* S0519.lrc in Resources */,
+				0DEDCF04217B2D9A0039A0BC /* S0513.mp3 in Resources */,
+				0DEDCF1E217B2D9A0039A0BC /* S0517.lrc in Resources */,
+				0DEDCEFB217B2D9A0039A0BC /* S0514.mp3 in Resources */,
+				0DEDCF24217B2D9A0039A0BC /* S0516.mp3 in Resources */,
+				0DEDCF0F217B2D9A0039A0BC /* S0523.mp3 in Resources */,
+				0DEDCF10217B2D9A0039A0BC /* S0515.lrc in Resources */,
+				0DEDCEFA217B2D9A0039A0BC /* S0519.mp3 in Resources */,
+				0DEDCF0D217B2D9A0039A0BC /* S0524.mp3 in Resources */,
+				0DEDCEF6217B2D9A0039A0BC /* S0509.lrc in Resources */,
+				0DEDCF1D217B2D9A0039A0BC /* S0504.lrc in Resources */,
+				0DEDCF12217B2D9A0039A0BC /* S0514.lrc in Resources */,
+				0DEDCF03217B2D9A0039A0BC /* S0510.lrc in Resources */,
+				0DEDCF18217B2D9A0039A0BC /* S0520.lrc in Resources */,
+				0DEDCEF8217B2D9A0039A0BC /* S0506.lrc in Resources */,
+				0DEDCF0E217B2D9A0039A0BC /* S0508.lrc in Resources */,
+				0DEDCF08217B2D9A0039A0BC /* S0521.lrc in Resources */,
+				0DEDCEFF217B2D9A0039A0BC /* S0511.mp3 in Resources */,
+				0DEDCF05217B2D9A0039A0BC /* S0515.mp3 in Resources */,
+				0DEDCEF5217B2D9A0039A0BC /* S0504.mp3 in Resources */,
+				0DEDCF16217B2D9A0039A0BC /* S0509.mp3 in Resources */,
+				0DEDCF1C217B2D9A0039A0BC /* S0501.mp3 in Resources */,
+				0DEDCF06217B2D9A0039A0BC /* S0521.mp3 in Resources */,
+				0DEDCEF9217B2D9A0039A0BC /* S0508.mp3 in Resources */,
+				0DEDCF19217B2D9A0039A0BC /* S0507.mp3 in Resources */,
+				0DEDCF07217B2D9A0039A0BC /* S0506.mp3 in Resources */,
+				0DEDCF20217B2D9A0039A0BC /* S0524.lrc in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C0E16CF21E91164100E205F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1BCA76F820E84DD500709CC9 /* SongsCollectionViewController.m in Sources */,
+				0DFC8D9620CBF1020004538A /* LrcParser.m in Sources */,
+				C0E16D011E91164200E205F9 /* ViewController.m in Sources */,
+				C0E16CFE1E91164100E205F9 /* AppDelegate.m in Sources */,
+				0DFC8D9920CBF1370004538A /* LyricsCollectionViewCell.m in Sources */,
+				1BCA76FB20E84FC700709CC9 /* SongCollectionViewCell.m in Sources */,
+				C0E16CFB1E91164100E205F9 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C0E16D021E91164200E205F9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C0E16D031E91164200E205F9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C0E16D071E91164200E205F9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C0E16D081E91164200E205F9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C0E16D0B1E91164200E205F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C0E16D0C1E91164200E205F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C0E16D0E1E91164200E205F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WRXQWFRRMG;
+				INFOPLIST_FILE = 8.3.8/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = himym5.cmu.ustc1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C0E16D0F1E91164200E205F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WRXQWFRRMG;
+				INFOPLIST_FILE = 8.3.8/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = himym5.cmu.ustc1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C0E16CF11E91164100E205F9 /* Build configuration list for PBXProject "LyrioPlayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C0E16D0B1E91164200E205F9 /* Debug */,
+				C0E16D0C1E91164200E205F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C0E16D0D1E91164200E205F9 /* Build configuration list for PBXNativeTarget "LyrioPlayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C0E16D0E1E91164200E205F9 /* Debug */,
+				C0E16D0F1E91164200E205F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C0E16CEE1E91164100E205F9 /* Project object */;
+}
