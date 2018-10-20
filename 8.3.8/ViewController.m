@@ -318,7 +318,7 @@ static const NSTimeInterval kTimeUnitInMs = 100;
         NSCalendar *cal = [NSCalendar currentCalendar];
         NSDateComponents *component = [cal components:NSCalendarUnitDay fromDate:[NSDate date]];
         NSInteger day = component.day;
-        NSInteger index = (day - 1) % count + 1;
+        NSInteger index = (day - 1) % count;
         _fileName = self.songsCollectionViewController.songs[index];
         self.songsCollectionViewController.currentSongIndex = index;
         
