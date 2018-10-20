@@ -17,8 +17,6 @@ static const CGFloat kVerticalPadding = 8;
   self = [super initWithFrame:frame];
   if (self) {
     _nameLabel = [[UILabel alloc] init];
-    _nameLabel.backgroundColor = [UIColor whiteColor];
-    _nameLabel.textColor = [UIColor blackColor];
     _nameLabel.font = [UIFont systemFontOfSize:30];
     [self addSubview:_nameLabel];
   }
@@ -31,6 +29,18 @@ static const CGFloat kVerticalPadding = 8;
 
 - (CGSize)sizeThatFits:(CGSize)size {
   return CGSizeMake(size.width, [self layoutSubviewsForWidth:size.width setFrame:NO]);
+}
+
+- (void)setHighlighted:(BOOL)highlighted {
+    if (highlighted) {
+        self.backgroundColor = [UIColor darkGrayColor];
+        _nameLabel.backgroundColor = [UIColor darkGrayColor];
+        _nameLabel.textColor = [UIColor yellowColor];
+    } else  {
+        self.backgroundColor = [UIColor whiteColor];
+        _nameLabel.backgroundColor = [UIColor whiteColor];
+        _nameLabel.textColor = [UIColor blackColor];
+    }
 }
 
 #pragma mark - Private Methods

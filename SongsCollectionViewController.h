@@ -23,6 +23,8 @@
 /** Songs in resource directory. */
 @property(nonatomic) NSMutableArray <NSString *>* songs;
 
+@property(nonatomic) NSInteger currentSongIndex;
+
 - (instancetype)init; NS_DESIGNATED_INITIALIZER;
 
 

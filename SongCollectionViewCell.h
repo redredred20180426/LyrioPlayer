@@ -13,4 +13,6 @@
 /** Name of the song. */
 @property(nonatomic, readonly) UILabel *nameLabel;
 
+- (void)setHighlighted:(BOOL)highlighted;
+
 @end

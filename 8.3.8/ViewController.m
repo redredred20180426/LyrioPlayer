@@ -205,6 +205,7 @@ static const NSTimeInterval kTimeUnitInMs = 100;
 
 - (void)motionEnded:(UIEventSubtype)motion withEvent:(UIEvent *)event {
   [self switchPausePlay];
+  [self.songsCollectionViewController.collectionView reloadData];
   [self presentViewController:self.songsCollectionViewController animated:NO completion:nil];
 }
 
