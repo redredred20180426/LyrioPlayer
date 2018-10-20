@@ -320,7 +320,7 @@ static const NSTimeInterval kTimeUnitInMs = 100;
         NSInteger day = component.day;
         NSInteger index = (day - 1) % count + 1;
         _fileName = self.songsCollectionViewController.songs[index];
-        
+        self.songsCollectionViewController.currentSongIndex = index;
     }
   return _fileName;
 }

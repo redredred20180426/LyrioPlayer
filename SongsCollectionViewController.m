@@ -66,7 +66,7 @@ static NSString * const reuseIdentifier = @"Cell";
                   cellForItemAtIndexPath:(NSIndexPath *)indexPath {
     SongCollectionViewCell *cell = (SongCollectionViewCell *)[collectionView dequeueReusableCellWithReuseIdentifier:reuseIdentifier forIndexPath:indexPath];
   cell.nameLabel.text = [self.songs objectAtIndex:indexPath.row];
-    [cell setHighlighted:indexPath == self.currentSongIndex];
+    [cell setHighlighted:indexPath.row == self.currentSongIndex];
   return cell;
 }
 
