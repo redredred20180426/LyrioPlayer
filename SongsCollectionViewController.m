@@ -101,7 +101,6 @@ static NSString * const reuseIdentifier = @"Cell";
 - (NSArray<NSString *>*)songs {
   if (!_songs) {
     _songs = [NSMutableArray array];
-  }
   NSString *resourcePath = [[NSBundle mainBundle]  resourcePath];
   NSArray *dirs = [[NSFileManager defaultManager] contentsOfDirectoryAtPath:resourcePath error:nil];
   NSArray <NSString *> *mp3Files = [dirs filteredArrayUsingPredicate:[NSPredicate predicateWithFormat:@"self ENDSWITH %@", @".mp3"]];
@@ -116,7 +115,8 @@ static NSString * const reuseIdentifier = @"Cell";
       [_songs addObject:fileName];
     }
   }
-  return _songs;
+  }
+    return _songs;
 }
 
 @end
