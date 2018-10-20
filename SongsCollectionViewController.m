@@ -66,6 +66,7 @@ static NSString * const reuseIdentifier = @"Cell";
                   cellForItemAtIndexPath:(NSIndexPath *)indexPath {
     SongCollectionViewCell *cell = (SongCollectionViewCell *)[collectionView dequeueReusableCellWithReuseIdentifier:reuseIdentifier forIndexPath:indexPath];
   cell.nameLabel.text = [self.songs objectAtIndex:indexPath.row];
+    [cell setHighlighted:indexPath == self.currentSongIndex];
   return cell;
 }
 
@@ -90,6 +91,7 @@ static NSString * const reuseIdentifier = @"Cell";
   SongCollectionViewCell *cell = [self collectionView:collectionView cellForItemAtIndexPath:indexPath];
   cell.backgroundColor = [UIColor yellowColor];
   [cell setNeedsLayout];
+  self.currentSongIndex = indexPath.row;
   [self.delegate didSelectSong:[self.songs objectAtIndex:indexPath.row] InSongsCollectionViewController:self];
 }
 
