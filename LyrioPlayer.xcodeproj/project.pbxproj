@@ -7,54 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0DEDCF55217B2F330039A0BC /* Modern.Family.S01E18.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF25217B2F190039A0BC /* Modern.Family.S01E18.lrc */; };
-		0DEDCF56217B2F330039A0BC /* Modern.Family.S01E07.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF26217B2F190039A0BC /* Modern.Family.S01E07.lrc */; };
-		0DEDCF57217B2F330039A0BC /* Modern.Family.S01E15.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF27217B2F1A0039A0BC /* Modern.Family.S01E15.mp3 */; };
-		0DEDCF58217B2F330039A0BC /* Modern.Family.S01E20.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF28217B2F1A0039A0BC /* Modern.Family.S01E20.lrc */; };
-		0DEDCF59217B2F330039A0BC /* Modern.Family.S01E09.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF29217B2F1A0039A0BC /* Modern.Family.S01E09.mp3 */; };
-		0DEDCF5A217B2F330039A0BC /* Modern.Family.S01E14.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF2A217B2F1B0039A0BC /* Modern.Family.S01E14.mp3 */; };
-		0DEDCF5B217B2F330039A0BC /* Modern.Family.S01E05.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF2B217B2F1C0039A0BC /* Modern.Family.S01E05.mp3 */; };
-		0DEDCF5C217B2F330039A0BC /* Modern.Family.S01E15.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF2C217B2F1D0039A0BC /* Modern.Family.S01E15.lrc */; };
-		0DEDCF5D217B2F330039A0BC /* Modern.Family.S01E10.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF2D217B2F1D0039A0BC /* Modern.Family.S01E10.mp3 */; };
-		0DEDCF5E217B2F330039A0BC /* Modern.Family.S01E04.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF2E217B2F1E0039A0BC /* Modern.Family.S01E04.mp3 */; };
-		0DEDCF5F217B2F330039A0BC /* Modern.Family.S01E19.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF2F217B2F1F0039A0BC /* Modern.Family.S01E19.mp3 */; };
-		0DEDCF60217B2F330039A0BC /* Modern.Family.S01E21.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF30217B2F1F0039A0BC /* Modern.Family.S01E21.lrc */; };
-		0DEDCF61217B2F330039A0BC /* Modern.Family.S01E13.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF31217B2F200039A0BC /* Modern.Family.S01E13.mp3 */; };
-		0DEDCF62217B2F330039A0BC /* Modern.Family.S01E19.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF32217B2F200039A0BC /* Modern.Family.S01E19.lrc */; };
-		0DEDCF63217B2F330039A0BC /* Modern.Family.S01E12.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF33217B2F210039A0BC /* Modern.Family.S01E12.mp3 */; };
-		0DEDCF64217B2F330039A0BC /* Modern.Family.S01E24.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF34217B2F220039A0BC /* Modern.Family.S01E24.mp3 */; };
-		0DEDCF65217B2F330039A0BC /* Modern.Family.S01E18.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF35217B2F230039A0BC /* Modern.Family.S01E18.mp3 */; };
-		0DEDCF66217B2F330039A0BC /* Modern.Family.S01E21.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF36217B2F240039A0BC /* Modern.Family.S01E21.mp3 */; };
-		0DEDCF67217B2F330039A0BC /* Modern.Family.S01E08.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF37217B2F240039A0BC /* Modern.Family.S01E08.lrc */; };
-		0DEDCF68217B2F330039A0BC /* Modern.Family.S01E11.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF38217B2F240039A0BC /* Modern.Family.S01E11.lrc */; };
-		0DEDCF69217B2F330039A0BC /* Modern.Family.S01E13.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF39217B2F240039A0BC /* Modern.Family.S01E13.lrc */; };
-		0DEDCF6A217B2F330039A0BC /* Modern.Family.S01E17.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF3A217B2F250039A0BC /* Modern.Family.S01E17.lrc */; };
-		0DEDCF6B217B2F330039A0BC /* Modern.Family.S01E07.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF3B217B2F260039A0BC /* Modern.Family.S01E07.mp3 */; };
-		0DEDCF6C217B2F330039A0BC /* Modern.Family.S01E06.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF3C217B2F260039A0BC /* Modern.Family.S01E06.mp3 */; };
-		0DEDCF6D217B2F330039A0BC /* Modern.Family.S01E03.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF3D217B2F270039A0BC /* Modern.Family.S01E03.mp3 */; };
-		0DEDCF6E217B2F330039A0BC /* Modern.Family.S01E16.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF3E217B2F280039A0BC /* Modern.Family.S01E16.mp3 */; };
-		0DEDCF6F217B2F330039A0BC /* Modern.Family.S01E05.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF3F217B2F280039A0BC /* Modern.Family.S01E05.lrc */; };
-		0DEDCF70217B2F330039A0BC /* Modern.Family.S01E10.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF40217B2F280039A0BC /* Modern.Family.S01E10.lrc */; };
-		0DEDCF71217B2F330039A0BC /* Modern.Family.S01E08.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF41217B2F290039A0BC /* Modern.Family.S01E08.mp3 */; };
-		0DEDCF72217B2F330039A0BC /* Modern.Family.S01E04.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF42217B2F290039A0BC /* Modern.Family.S01E04.lrc */; };
-		0DEDCF73217B2F330039A0BC /* Modern.Family.S01E01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF43217B2F2A0039A0BC /* Modern.Family.S01E01.mp3 */; };
-		0DEDCF74217B2F330039A0BC /* Modern.Family.S01E22.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF44217B2F2A0039A0BC /* Modern.Family.S01E22.lrc */; };
-		0DEDCF75217B2F330039A0BC /* Modern.Family.S01E03.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF45217B2F2A0039A0BC /* Modern.Family.S01E03.lrc */; };
-		0DEDCF76217B2F330039A0BC /* Modern.Family.S01E20.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF46217B2F2B0039A0BC /* Modern.Family.S01E20.mp3 */; };
-		0DEDCF77217B2F330039A0BC /* Modern.Family.S01E14.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF47217B2F2C0039A0BC /* Modern.Family.S01E14.lrc */; };
-		0DEDCF78217B2F330039A0BC /* Modern.Family.S01E12.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF48217B2F2C0039A0BC /* Modern.Family.S01E12.lrc */; };
-		0DEDCF79217B2F330039A0BC /* Modern.Family.S01E11.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF49217B2F2D0039A0BC /* Modern.Family.S01E11.mp3 */; };
-		0DEDCF7A217B2F330039A0BC /* Modern.Family.S01E06.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF4A217B2F2D0039A0BC /* Modern.Family.S01E06.lrc */; };
-		0DEDCF7B217B2F330039A0BC /* Modern.Family.S01E02.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF4B217B2F2E0039A0BC /* Modern.Family.S01E02.lrc */; };
-		0DEDCF7C217B2F330039A0BC /* Modern.Family.S01E02.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF4C217B2F2F0039A0BC /* Modern.Family.S01E02.mp3 */; };
-		0DEDCF7D217B2F330039A0BC /* Modern.Family.S01E09.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF4D217B2F2F0039A0BC /* Modern.Family.S01E09.lrc */; };
-		0DEDCF7E217B2F330039A0BC /* Modern.Family.S01E17.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF4E217B2F300039A0BC /* Modern.Family.S01E17.mp3 */; };
-		0DEDCF7F217B2F330039A0BC /* Modern.Family.S01E24.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF4F217B2F300039A0BC /* Modern.Family.S01E24.lrc */; };
-		0DEDCF80217B2F330039A0BC /* Modern.Family.S01E23.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF50217B2F310039A0BC /* Modern.Family.S01E23.lrc */; };
-		0DEDCF81217B2F330039A0BC /* Modern.Family.S01E22.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF51217B2F320039A0BC /* Modern.Family.S01E22.mp3 */; };
-		0DEDCF82217B2F330039A0BC /* Modern.Family.S01E16.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF52217B2F320039A0BC /* Modern.Family.S01E16.lrc */; };
-		0DEDCF83217B2F330039A0BC /* Modern.Family.S01E23.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF53217B2F330039A0BC /* Modern.Family.S01E23.mp3 */; };
-		0DEDCF84217B2F330039A0BC /* Modern.Family.S01E01.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDCF54217B2F330039A0BC /* Modern.Family.S01E01.lrc */; };
+		0DAD5002217B459C00C49EAA /* 01.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0DAD5000217B459C00C49EAA /* 01.lrc */; };
+		0DAD5003217B459C00C49EAA /* 01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0DAD5001217B459C00C49EAA /* 01.mp3 */; };
 		0DFC8D9620CBF1020004538A /* LrcParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DFC8D9520CBF1020004538A /* LrcParser.m */; };
 		0DFC8D9920CBF1370004538A /* LyricsCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DFC8D9820CBF1370004538A /* LyricsCollectionViewCell.m */; };
 		1BCA76F820E84DD500709CC9 /* SongsCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BCA76F720E84DD500709CC9 /* SongsCollectionViewController.m */; };
@@ -80,54 +34,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0DEDCF25217B2F190039A0BC /* Modern.Family.S01E18.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E18.lrc; sourceTree = "<group>"; };
-		0DEDCF26217B2F190039A0BC /* Modern.Family.S01E07.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E07.lrc; sourceTree = "<group>"; };
-		0DEDCF27217B2F1A0039A0BC /* Modern.Family.S01E15.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E15.mp3; sourceTree = "<group>"; };
-		0DEDCF28217B2F1A0039A0BC /* Modern.Family.S01E20.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E20.lrc; sourceTree = "<group>"; };
-		0DEDCF29217B2F1A0039A0BC /* Modern.Family.S01E09.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E09.mp3; sourceTree = "<group>"; };
-		0DEDCF2A217B2F1B0039A0BC /* Modern.Family.S01E14.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E14.mp3; sourceTree = "<group>"; };
-		0DEDCF2B217B2F1C0039A0BC /* Modern.Family.S01E05.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E05.mp3; sourceTree = "<group>"; };
-		0DEDCF2C217B2F1D0039A0BC /* Modern.Family.S01E15.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E15.lrc; sourceTree = "<group>"; };
-		0DEDCF2D217B2F1D0039A0BC /* Modern.Family.S01E10.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E10.mp3; sourceTree = "<group>"; };
-		0DEDCF2E217B2F1E0039A0BC /* Modern.Family.S01E04.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E04.mp3; sourceTree = "<group>"; };
-		0DEDCF2F217B2F1F0039A0BC /* Modern.Family.S01E19.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E19.mp3; sourceTree = "<group>"; };
-		0DEDCF30217B2F1F0039A0BC /* Modern.Family.S01E21.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E21.lrc; sourceTree = "<group>"; };
-		0DEDCF31217B2F200039A0BC /* Modern.Family.S01E13.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E13.mp3; sourceTree = "<group>"; };
-		0DEDCF32217B2F200039A0BC /* Modern.Family.S01E19.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E19.lrc; sourceTree = "<group>"; };
-		0DEDCF33217B2F210039A0BC /* Modern.Family.S01E12.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E12.mp3; sourceTree = "<group>"; };
-		0DEDCF34217B2F220039A0BC /* Modern.Family.S01E24.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E24.mp3; sourceTree = "<group>"; };
-		0DEDCF35217B2F230039A0BC /* Modern.Family.S01E18.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E18.mp3; sourceTree = "<group>"; };
-		0DEDCF36217B2F240039A0BC /* Modern.Family.S01E21.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E21.mp3; sourceTree = "<group>"; };
-		0DEDCF37217B2F240039A0BC /* Modern.Family.S01E08.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E08.lrc; sourceTree = "<group>"; };
-		0DEDCF38217B2F240039A0BC /* Modern.Family.S01E11.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E11.lrc; sourceTree = "<group>"; };
-		0DEDCF39217B2F240039A0BC /* Modern.Family.S01E13.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E13.lrc; sourceTree = "<group>"; };
-		0DEDCF3A217B2F250039A0BC /* Modern.Family.S01E17.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E17.lrc; sourceTree = "<group>"; };
-		0DEDCF3B217B2F260039A0BC /* Modern.Family.S01E07.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E07.mp3; sourceTree = "<group>"; };
-		0DEDCF3C217B2F260039A0BC /* Modern.Family.S01E06.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E06.mp3; sourceTree = "<group>"; };
-		0DEDCF3D217B2F270039A0BC /* Modern.Family.S01E03.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E03.mp3; sourceTree = "<group>"; };
-		0DEDCF3E217B2F280039A0BC /* Modern.Family.S01E16.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E16.mp3; sourceTree = "<group>"; };
-		0DEDCF3F217B2F280039A0BC /* Modern.Family.S01E05.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E05.lrc; sourceTree = "<group>"; };
-		0DEDCF40217B2F280039A0BC /* Modern.Family.S01E10.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E10.lrc; sourceTree = "<group>"; };
-		0DEDCF41217B2F290039A0BC /* Modern.Family.S01E08.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E08.mp3; sourceTree = "<group>"; };
-		0DEDCF42217B2F290039A0BC /* Modern.Family.S01E04.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E04.lrc; sourceTree = "<group>"; };
-		0DEDCF43217B2F2A0039A0BC /* Modern.Family.S01E01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E01.mp3; sourceTree = "<group>"; };
-		0DEDCF44217B2F2A0039A0BC /* Modern.Family.S01E22.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E22.lrc; sourceTree = "<group>"; };
-		0DEDCF45217B2F2A0039A0BC /* Modern.Family.S01E03.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E03.lrc; sourceTree = "<group>"; };
-		0DEDCF46217B2F2B0039A0BC /* Modern.Family.S01E20.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E20.mp3; sourceTree = "<group>"; };
-		0DEDCF47217B2F2C0039A0BC /* Modern.Family.S01E14.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E14.lrc; sourceTree = "<group>"; };
-		0DEDCF48217B2F2C0039A0BC /* Modern.Family.S01E12.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E12.lrc; sourceTree = "<group>"; };
-		0DEDCF49217B2F2D0039A0BC /* Modern.Family.S01E11.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E11.mp3; sourceTree = "<group>"; };
-		0DEDCF4A217B2F2D0039A0BC /* Modern.Family.S01E06.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E06.lrc; sourceTree = "<group>"; };
-		0DEDCF4B217B2F2E0039A0BC /* Modern.Family.S01E02.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E02.lrc; sourceTree = "<group>"; };
-		0DEDCF4C217B2F2F0039A0BC /* Modern.Family.S01E02.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E02.mp3; sourceTree = "<group>"; };
-		0DEDCF4D217B2F2F0039A0BC /* Modern.Family.S01E09.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E09.lrc; sourceTree = "<group>"; };
-		0DEDCF4E217B2F300039A0BC /* Modern.Family.S01E17.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E17.mp3; sourceTree = "<group>"; };
-		0DEDCF4F217B2F300039A0BC /* Modern.Family.S01E24.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E24.lrc; sourceTree = "<group>"; };
-		0DEDCF50217B2F310039A0BC /* Modern.Family.S01E23.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E23.lrc; sourceTree = "<group>"; };
-		0DEDCF51217B2F320039A0BC /* Modern.Family.S01E22.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E22.mp3; sourceTree = "<group>"; };
-		0DEDCF52217B2F320039A0BC /* Modern.Family.S01E16.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E16.lrc; sourceTree = "<group>"; };
-		0DEDCF53217B2F330039A0BC /* Modern.Family.S01E23.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Modern.Family.S01E23.mp3; sourceTree = "<group>"; };
-		0DEDCF54217B2F330039A0BC /* Modern.Family.S01E01.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Modern.Family.S01E01.lrc; sourceTree = "<group>"; };
+		0DAD5000217B459C00C49EAA /* 01.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 01.lrc; sourceTree = "<group>"; };
+		0DAD5001217B459C00C49EAA /* 01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 01.mp3; sourceTree = "<group>"; };
 		0DFC8D9420CBF1020004538A /* LrcParser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LrcParser.h; sourceTree = "<group>"; };
 		0DFC8D9520CBF1020004538A /* LrcParser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LrcParser.m; sourceTree = "<group>"; };
 		0DFC8D9720CBF1370004538A /* LyricsCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LyricsCollectionViewCell.h; sourceTree = "<group>"; };
@@ -162,54 +70,8 @@
 		0DFC8DCD20CBFB2B0004538A /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				0DEDCF54217B2F330039A0BC /* Modern.Family.S01E01.lrc */,
-				0DEDCF43217B2F2A0039A0BC /* Modern.Family.S01E01.mp3 */,
-				0DEDCF4B217B2F2E0039A0BC /* Modern.Family.S01E02.lrc */,
-				0DEDCF4C217B2F2F0039A0BC /* Modern.Family.S01E02.mp3 */,
-				0DEDCF45217B2F2A0039A0BC /* Modern.Family.S01E03.lrc */,
-				0DEDCF3D217B2F270039A0BC /* Modern.Family.S01E03.mp3 */,
-				0DEDCF42217B2F290039A0BC /* Modern.Family.S01E04.lrc */,
-				0DEDCF2E217B2F1E0039A0BC /* Modern.Family.S01E04.mp3 */,
-				0DEDCF3F217B2F280039A0BC /* Modern.Family.S01E05.lrc */,
-				0DEDCF2B217B2F1C0039A0BC /* Modern.Family.S01E05.mp3 */,
-				0DEDCF4A217B2F2D0039A0BC /* Modern.Family.S01E06.lrc */,
-				0DEDCF3C217B2F260039A0BC /* Modern.Family.S01E06.mp3 */,
-				0DEDCF26217B2F190039A0BC /* Modern.Family.S01E07.lrc */,
-				0DEDCF3B217B2F260039A0BC /* Modern.Family.S01E07.mp3 */,
-				0DEDCF37217B2F240039A0BC /* Modern.Family.S01E08.lrc */,
-				0DEDCF41217B2F290039A0BC /* Modern.Family.S01E08.mp3 */,
-				0DEDCF4D217B2F2F0039A0BC /* Modern.Family.S01E09.lrc */,
-				0DEDCF29217B2F1A0039A0BC /* Modern.Family.S01E09.mp3 */,
-				0DEDCF40217B2F280039A0BC /* Modern.Family.S01E10.lrc */,
-				0DEDCF2D217B2F1D0039A0BC /* Modern.Family.S01E10.mp3 */,
-				0DEDCF38217B2F240039A0BC /* Modern.Family.S01E11.lrc */,
-				0DEDCF49217B2F2D0039A0BC /* Modern.Family.S01E11.mp3 */,
-				0DEDCF48217B2F2C0039A0BC /* Modern.Family.S01E12.lrc */,
-				0DEDCF33217B2F210039A0BC /* Modern.Family.S01E12.mp3 */,
-				0DEDCF39217B2F240039A0BC /* Modern.Family.S01E13.lrc */,
-				0DEDCF31217B2F200039A0BC /* Modern.Family.S01E13.mp3 */,
-				0DEDCF47217B2F2C0039A0BC /* Modern.Family.S01E14.lrc */,
-				0DEDCF2A217B2F1B0039A0BC /* Modern.Family.S01E14.mp3 */,
-				0DEDCF2C217B2F1D0039A0BC /* Modern.Family.S01E15.lrc */,
-				0DEDCF27217B2F1A0039A0BC /* Modern.Family.S01E15.mp3 */,
-				0DEDCF52217B2F320039A0BC /* Modern.Family.S01E16.lrc */,
-				0DEDCF3E217B2F280039A0BC /* Modern.Family.S01E16.mp3 */,
-				0DEDCF3A217B2F250039A0BC /* Modern.Family.S01E17.lrc */,
-				0DEDCF4E217B2F300039A0BC /* Modern.Family.S01E17.mp3 */,
-				0DEDCF25217B2F190039A0BC /* Modern.Family.S01E18.lrc */,
-				0DEDCF35217B2F230039A0BC /* Modern.Family.S01E18.mp3 */,
-				0DEDCF32217B2F200039A0BC /* Modern.Family.S01E19.lrc */,
-				0DEDCF2F217B2F1F0039A0BC /* Modern.Family.S01E19.mp3 */,
-				0DEDCF28217B2F1A0039A0BC /* Modern.Family.S01E20.lrc */,
-				0DEDCF46217B2F2B0039A0BC /* Modern.Family.S01E20.mp3 */,
-				0DEDCF30217B2F1F0039A0BC /* Modern.Family.S01E21.lrc */,
-				0DEDCF36217B2F240039A0BC /* Modern.Family.S01E21.mp3 */,
-				0DEDCF44217B2F2A0039A0BC /* Modern.Family.S01E22.lrc */,
-				0DEDCF51217B2F320039A0BC /* Modern.Family.S01E22.mp3 */,
-				0DEDCF50217B2F310039A0BC /* Modern.Family.S01E23.lrc */,
-				0DEDCF53217B2F330039A0BC /* Modern.Family.S01E23.mp3 */,
-				0DEDCF4F217B2F300039A0BC /* Modern.Family.S01E24.lrc */,
-				0DEDCF34217B2F220039A0BC /* Modern.Family.S01E24.mp3 */,
+				0DAD5000217B459C00C49EAA /* 01.lrc */,
+				0DAD5001217B459C00C49EAA /* 01.mp3 */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -323,56 +185,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0DEDCF57217B2F330039A0BC /* Modern.Family.S01E15.mp3 in Resources */,
-				0DEDCF83217B2F330039A0BC /* Modern.Family.S01E23.mp3 in Resources */,
-				0DEDCF67217B2F330039A0BC /* Modern.Family.S01E08.lrc in Resources */,
-				0DEDCF77217B2F330039A0BC /* Modern.Family.S01E14.lrc in Resources */,
-				0DEDCF74217B2F330039A0BC /* Modern.Family.S01E22.lrc in Resources */,
-				0DEDCF62217B2F330039A0BC /* Modern.Family.S01E19.lrc in Resources */,
-				0DEDCF72217B2F330039A0BC /* Modern.Family.S01E04.lrc in Resources */,
-				0DEDCF81217B2F330039A0BC /* Modern.Family.S01E22.mp3 in Resources */,
-				0DEDCF7E217B2F330039A0BC /* Modern.Family.S01E17.mp3 in Resources */,
-				0DEDCF7C217B2F330039A0BC /* Modern.Family.S01E02.mp3 in Resources */,
-				0DEDCF70217B2F330039A0BC /* Modern.Family.S01E10.lrc in Resources */,
-				0DEDCF5B217B2F330039A0BC /* Modern.Family.S01E05.mp3 in Resources */,
-				0DEDCF66217B2F330039A0BC /* Modern.Family.S01E21.mp3 in Resources */,
-				0DEDCF55217B2F330039A0BC /* Modern.Family.S01E18.lrc in Resources */,
-				0DEDCF6C217B2F330039A0BC /* Modern.Family.S01E06.mp3 in Resources */,
-				0DEDCF7F217B2F330039A0BC /* Modern.Family.S01E24.lrc in Resources */,
-				0DEDCF68217B2F330039A0BC /* Modern.Family.S01E11.lrc in Resources */,
-				0DEDCF78217B2F330039A0BC /* Modern.Family.S01E12.lrc in Resources */,
-				0DEDCF6E217B2F330039A0BC /* Modern.Family.S01E16.mp3 in Resources */,
-				0DEDCF5E217B2F330039A0BC /* Modern.Family.S01E04.mp3 in Resources */,
-				0DEDCF5D217B2F330039A0BC /* Modern.Family.S01E10.mp3 in Resources */,
-				0DEDCF73217B2F330039A0BC /* Modern.Family.S01E01.mp3 in Resources */,
+				0DAD5003217B459C00C49EAA /* 01.mp3 in Resources */,
 				C0E16D091E91164200E205F9 /* LaunchScreen.storyboard in Resources */,
-				0DEDCF6F217B2F330039A0BC /* Modern.Family.S01E05.lrc in Resources */,
-				0DEDCF84217B2F330039A0BC /* Modern.Family.S01E01.lrc in Resources */,
-				0DEDCF61217B2F330039A0BC /* Modern.Family.S01E13.mp3 in Resources */,
-				0DEDCF75217B2F330039A0BC /* Modern.Family.S01E03.lrc in Resources */,
-				0DEDCF7B217B2F330039A0BC /* Modern.Family.S01E02.lrc in Resources */,
-				0DEDCF59217B2F330039A0BC /* Modern.Family.S01E09.mp3 in Resources */,
-				0DEDCF58217B2F330039A0BC /* Modern.Family.S01E20.lrc in Resources */,
-				0DEDCF5C217B2F330039A0BC /* Modern.Family.S01E15.lrc in Resources */,
-				0DEDCF65217B2F330039A0BC /* Modern.Family.S01E18.mp3 in Resources */,
-				0DEDCF69217B2F330039A0BC /* Modern.Family.S01E13.lrc in Resources */,
-				0DEDCF7D217B2F330039A0BC /* Modern.Family.S01E09.lrc in Resources */,
-				0DEDCF64217B2F330039A0BC /* Modern.Family.S01E24.mp3 in Resources */,
-				0DEDCF6A217B2F330039A0BC /* Modern.Family.S01E17.lrc in Resources */,
-				0DEDCF82217B2F330039A0BC /* Modern.Family.S01E16.lrc in Resources */,
-				0DEDCF56217B2F330039A0BC /* Modern.Family.S01E07.lrc in Resources */,
-				0DEDCF6B217B2F330039A0BC /* Modern.Family.S01E07.mp3 in Resources */,
-				0DEDCF6D217B2F330039A0BC /* Modern.Family.S01E03.mp3 in Resources */,
-				0DEDCF5A217B2F330039A0BC /* Modern.Family.S01E14.mp3 in Resources */,
-				0DEDCF71217B2F330039A0BC /* Modern.Family.S01E08.mp3 in Resources */,
 				C0E16D061E91164200E205F9 /* Assets.xcassets in Resources */,
-				0DEDCF60217B2F330039A0BC /* Modern.Family.S01E21.lrc in Resources */,
-				0DEDCF63217B2F330039A0BC /* Modern.Family.S01E12.mp3 in Resources */,
-				0DEDCF79217B2F330039A0BC /* Modern.Family.S01E11.mp3 in Resources */,
-				0DEDCF5F217B2F330039A0BC /* Modern.Family.S01E19.mp3 in Resources */,
-				0DEDCF7A217B2F330039A0BC /* Modern.Family.S01E06.lrc in Resources */,
-				0DEDCF76217B2F330039A0BC /* Modern.Family.S01E20.mp3 in Resources */,
-				0DEDCF80217B2F330039A0BC /* Modern.Family.S01E23.lrc in Resources */,
+				0DAD5002217B459C00C49EAA /* 01.lrc in Resources */,
 				C0E16D041E91164200E205F9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -527,7 +343,7 @@
 				DEVELOPMENT_TEAM = WRXQWFRRMG;
 				INFOPLIST_FILE = 8.3.8/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = mf1.cmu.ustc1;
+				PRODUCT_BUNDLE_IDENTIFIER = el.cmu.ustc1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -539,7 +355,7 @@
 				DEVELOPMENT_TEAM = WRXQWFRRMG;
 				INFOPLIST_FILE = 8.3.8/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = mf1.cmu.ustc1;
+				PRODUCT_BUNDLE_IDENTIFIER = el.cmu.ustc1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
